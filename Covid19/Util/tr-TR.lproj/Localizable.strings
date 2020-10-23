@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Covid19
+
+  Created by Dağhan Kılıçay on 22.10.2020.
+  
+*/
+"total_tests" = "Toplam Test";
+"daily_case" = "Günlük Vaka";
+"daily_death" = "Günlük Ölüm";
+"current_language" = "EN";
+
+"day" = "Gün";
+"continent" = "Kıta";
+"country" = "Ülke";
+"total_population" = "Toplam Nüfus";
+
+"cases" = "VAKALAR";
+"new_case" = "Yeni Vaka";
+"active_case" = "Aktif Vaka";
+"critical_case" = "Kritik Vaka";
+"recovered_case" = "İyileşen Vaka";
+"total_case" = "Toplam Vaka";
+
+"tests" = "TESTLER";
+"total_test" = "Toplam Test";
+
+"deaths" = "ÖLÜMLER";
+"new_deaths" = "Yeni Ölümler";
+"total_deaths" = "Toplam Ölümler";
+
+"past" = "GEÇMİŞ";
+"all_back" = "Tümü";
+"search_text" = " Ülke Ara";

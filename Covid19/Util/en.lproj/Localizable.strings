@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Covid19
+
+  Created by Dağhan Kılıçay on 22.10.2020.
+  
+*/
+
+"total_tests" = "Total Test";
+"daily_case" = "Daily Case";
+"daily_death" = "Daily Death";
+"current_language" = "TR";
+
+"day" = "Day";
+"continent" = "Continent";
+"country" = "Country";
+"total_population" = "Total Population";
+
+"cases" = "CASES";
+"new_case" = "New Case";
+"active_case" = "Active Case";
+"critical_case" = "Critical Case";
+"recovered_case" = "Recovered Case";
+"total_case" = "Total Case";
+
+"tests" = "TESTS";
+"total_test" = "Total Test";
+
+"deaths" = "DEATHS";
+"new_deaths" = "New Deaths";
+"total_deaths" = "Total Deaths";
+
+"past" = "PAST";
+"all_back" = "All";
+"search_text" = " Search Country";
